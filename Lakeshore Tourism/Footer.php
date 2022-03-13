@@ -9,8 +9,7 @@
             <tr>
                
                 <td align = "center"><h4> Contact</h4> lakshore@gmail.com</td>
-                  
-                
+                                 
             </tr> 
             <tr>
                 <td align = "center"> 01716769494</td>
